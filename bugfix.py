@@ -1,1 +1,1 @@
-message = "from master"
+message = "conflict 1"
